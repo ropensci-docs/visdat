@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "8121dfe61c800c747cb7b7881c53e53383803e02",
+    "author": "Nicholas Tierney <nicholas.tierney@gmail.com>",
+    "time": "2019-12-20 03:07:22",
+    "files": 2,
+    "merge": false,
+    "message": "clarifies the vis_binary examples so they reflect the usecase of order\n"
+  },
+  "remote": "https://github.com/ropensci/visdat",
+  "pkg": "visdat"
+}
