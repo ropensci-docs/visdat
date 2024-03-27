@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "e791c89730204660b90397adcd10d53a0da2df39",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2023-06-01 11:47:26",
+    "files": 1,
+    "merge": false,
+    "message": "docs: fix pkgdown config cc @njtierney\n"
+  },
+  "repo": "https://github.com/ropensci/visdat",
+  "pkg": "visdat"
+}
