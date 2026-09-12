@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "e6f72085f281fa6016b2a1a7a7e9503ae2ca6542",
+    "author": "Nicholas Tierney <njtierney@users.noreply.github.com>",
+    "time": "2026-08-12T05:42:53Z",
+    "files": 66,
+    "merge": true,
+    "message": "Merge pull request #175 from ropensci/spring-clean-i173\n\nSpring clean i173"
+  },
+  "repo": "https://github.com/ropensci/visdat",
+  "pkg": "visdat",
+  "time": "2026-09-12T08:52:22Z"
+}
