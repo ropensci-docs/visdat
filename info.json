@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "9b3006a52a98843dcf2bbff91f27585bb52c000a",
+    "author": "njtierney <nicholas.tierney@gmail.com>",
+    "time": "2026-09-26T04:38:36Z",
+    "files": 2,
+    "merge": false,
+    "message": "Increment version number to 0.6.1.9000\n"
+  },
+  "repo": "https://github.com/ropensci/visdat",
+  "pkg": "visdat",
+  "time": "2026-09-26T13:21:43Z"
+}
